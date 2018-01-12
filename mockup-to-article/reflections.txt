@@ -6,4 +6,11 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+  * What new skills have you learned?
+    I learned about a few HTML tags that I have never used like figure
+  * What has been easy?
+    Most of this unit has been easy as I do have a little bit of a background in HTML/CSS
+  * What has been difficult?
+    I have not found anything difficult yet
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+    I have been searching for the HTML tags I need when I don't remember them right off.
